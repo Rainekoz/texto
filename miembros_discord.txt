@@ -1,7 +1,6 @@
 {"display_name": "Rain", "name": "rainekoz", "roles": "CyVRia Creators team staff admin ", "color": "#ad1457", "last_message": 0, "message": "", "join_date": "2023-08-05"}
 {"display_name": ".Ana", "name": "_.ana", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-08-05"}
 {"display_name": "k4t", "name": "k4tnip", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-08-05"}
-{"display_name": "Kiunni", "name": "kiunni", "roles": "CyVRia DJ Boosters staff ", "color": "#e91e63", "last_message": 0, "message": "", "join_date": "2023-08-05"}
 {"display_name": "Mit", "name": "mitdevcat", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-08-05"}
 {"display_name": "\u210d\ud835\udd46\ud835\udd4d\ud835\udd40\ud835\udfe1\ud835\udfe0", "name": "hovi98", "roles": "CyVRia Creators team ", "color": "#f1c40f", "last_message": 0, "message": "", "join_date": "2023-08-06"}
 {"display_name": "Casiopea2601", "name": "casiopea2601", "roles": "CyVRia staff ", "color": "#e91e63", "last_message": 0, "message": "", "join_date": "2023-08-21"}
@@ -17,7 +16,6 @@
 {"display_name": "Mimiii", "name": "mimiiii", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
 {"display_name": "Paroxysm", "name": "paroxyse", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
 {"display_name": "Ataraxxia", "name": "ataraxxia", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
-{"display_name": "minaki.get", "name": "aki.min", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
 {"display_name": "PonyLoko", "name": "ponyloko", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
 {"display_name": "LuzaGunner", "name": "luzagunner", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
 {"display_name": "Shiroo", "name": "shirooverse", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-07"}
@@ -72,7 +70,6 @@
 {"display_name": "KiraAzuara", "name": "kiraazuara", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-29"}
 {"display_name": "Gaby's", "name": "cap_gaby", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-29"}
 {"display_name": "\u2560\ud83e\udd0e\ud835\udde5\ud835\uddf2\ud835\ude01\ud835\uddff\ud835\uddfc\ud835\udde7\ud835\uddff\ud835\ude02\ud835\uddf0\ud835\uddf8\ud835\ude00\ud835\udff3\ud83e\udd8a\u2563", "name": "retrotrucks7_2513", "roles": "CyVRia DJ ", "color": "#e74c3c", "last_message": 0, "message": "", "join_date": "2023-10-29"}
-{"display_name": "Molokita 2.0", "name": "molokita", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-29"}
 {"display_name": "Mariokael", "name": "mariokael", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-29"}
 {"display_name": "Akeno \ud83d\udda4", "name": "akeno", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-29"}
 {"display_name": "Alexd", "name": "geroxd", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2023-10-30"}
@@ -92,7 +89,6 @@
 {"display_name": "\u2661Yariitzaaa\u2661", "name": "yariitzaa24g", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-02"}
 {"display_name": "Suisai Melody", "name": "punkymel0dy", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-10"}
 {"display_name": "ElMojaPuchitas", "name": "eddie2946", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-10"}
-{"display_name": "minisoul10", "name": "minisoul10", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-20"}
 {"display_name": "Mayfran27", "name": "mayfran", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-27"}
 {"display_name": "\u273fYumi\u273f", "name": "princess0753_91472", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-01-31"}
 {"display_name": "NexxAn", "name": ".nexxan", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-02-04"}
@@ -102,14 +98,14 @@
 {"display_name": "Yuan X", "name": "yuanx", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-02-19"}
 {"display_name": "AquaGoddes", "name": "aqua_goddess15", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-04-25"}
 {"display_name": "Panson200", "name": "panson200x", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-04-25"}
-{"display_name": "CreinC_VR", "name": "creinc", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-25"}
+{"display_name": "ReinVR", "name": "creinc", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-25"}
 {"display_name": "\u20a3\u0394\u0141\u0106\u0394\u0158\u0197\u1eee\u015e", "name": "falcariusg", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-25"}
 {"display_name": "\u300e\ud835\udc45h\u04bd\u03c5\u0271  \u30e1\u30ed\u30f3'\u300f", "name": "retsu_melon", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-25"}
 {"display_name": "\ud835\udc72\ud835\udc82\ud835\udc9b\ud835\udc96", "name": "zkazuno", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-25"}
 {"display_name": "Germman", "name": "germmaan", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-26"}
-{"display_name": "zKyless", "name": "zkyless", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-26"}
 {"display_name": "kc99b", "name": "kc99b", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-26"}
 {"display_name": "c\u2668ffee\u2615", "name": "c0ldc0ffee", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-26"}
 {"display_name": "Wennx", "name": ".wennx", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-05-30"}
-{"display_name": "Min\u00fascula", "name": "minuscula", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-07-14"}
+{"display_name": "Min\u00fascula", "name": "minuscula", "roles": "", "color": "#000000", "last_message": 0, "message": "", "join_date": "2024-07-14"}
 {"display_name": "SweetElissa", "name": "sweetelissa", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-07-15"}
+{"display_name": "Axelsius", "name": "itsaxelsius", "roles": "CyVRia ", "color": "#71368a", "last_message": 0, "message": "", "join_date": "2024-07-20"}
